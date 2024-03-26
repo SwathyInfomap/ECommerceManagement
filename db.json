@@ -26,5 +26,151 @@
       "role":"admin",
       "id":1
     }
-  ]
+  ],
+  "products":[
+    {
+"id": 1,
+"name": "Huesland 152 cm (5 ft) Cotton Room Darkening Window Curtain Single Curtain  (Printed, Green Leaf Floral)",
+"uploadPhoto":"https://rukminim2.flixcart.com/image/832/832/xif0q/curtain/7/v/p/bohemian-curtain-hlcc0007-4x7-door-eyelet-huesland-original-imagpzzzqza798gr.jpeg?q=70&crop=false",
+"productDesc":"Introduce a charming surprise to your living room decor with this bohemian eyelet curtain from Huesland by Ahmedabad Cotton. The cotton finish fabric makes it soft to touch and easy to maintain. You can find gorgeous curtains that are perfect for your room and also serve numerous purposes. Blocks 60-65% direct sunlight keeping room naturally illuminated. Made with premium cotton fabric, easy to install and slide. Curtains come with decorative tassels on 3 sides.",
+"mrp": "1499",
+"dp": "749",
+"status": "publish"	
+    },
+    {
+      "id": 2,
+"name": "Qubo Essential Lock by HERO GROUP 5-Way Unlocking Fingerprint Pincode Mobile App Smart Door Lock",
+"uploadPhoto":"https://rukminim2.flixcart.com/image/832/832/xif0q/smart-door-lock/o/p/o/-original-imagznkabsn3q9jt.jpeg?q=70&crop=false",
+"productDesc":"The Qubo Smart Door Lock is a sophisticated yet enhanced safety feature to secure your home. You can get yourself a smart door lock to ensure the safety of your home and family. You do not have to carry around your keys anymore and worry about losing them, all you have to do is enter the security key and you are in. You can use multiple ways to unlock the lock, using your fingerprint, number lock, the app, or even using an access card. The superior quality bolts and other features keep your home safe from trespassers. The Qubo app allows you to set a PIN, manage users, and much more so you never have to worry about unwanted guests.",
+"mrp": "19990",
+"dp": "7990",
+"status": "publish"
+    },
+    {
+      "id": 3,
+"name": "MILTON HELIX 1000 ml Bottle  (Pack of 4, Multicolor, Plastic)",
+"uploadPhoto":"https://rukminim2.flixcart.com/image/832/832/kqttg280/bottle/p/e/y/1000-helix-1000-pet-water-bottle-set-of-4-1-litre-each-original-imag4rbsuuuzahdg.jpeg?q=70&crop=false",
+"productDesc":"Keep the freshness alive with Milton's Helix PET bottles. They're made of BPA free, high quality food-grade, reusable material. The bottle comes with a designer lid with loop and attractive overprints. The durable body makes them perfect for daily use whether at home, office or while traveling. When it comes to drinking fresh and clean water during travelling, it is best way to carry water from home to avoid any contamination. The best way to remind yourself to drink water is to carry a bottle with you and refresh yourself while travelling. Ideal for self use and gifting.",
+"mrp": "691",
+"dp": "351",
+"status": "draft"
+    },
+    {
+      "id": 4,
+"name": "HOTKEI Educational Science Kit 100 Experiment STEM Toys for Kids Boys Girl 8-14 Years  (Green)",
+"uploadPhoto":"https://rukminim2.flixcart.com/image/832/832/xif0q/learning-toy/2/w/y/educational-science-kit-100-experiment-stem-toys-for-kids-boys-original-imagwdmz4aesjcqn.jpeg?q=70&crop=false",
+"productDesc":"Explore 100 simple science experiments kit easily done at home with the help of the instructional manual and appratus provided in this kit. Transform your home into your child's first chemistry lab with this Science kit. The engaging activities in this ultimate science kit will keep your kids entertained for hours, allowing them to experience the joy of having their own lab and playing the role of a scientist. This STEM toys kit is designed to enhance children's understanding of chemistry through small, intriguing facts, fostering a keen interest in science. It is segmented into two sections 40 main experiments and an additional 60 bonus experiments. Comprehensive step-by-step instructions, complemented by visual representations in the manual will lead and assist childrens in Understanding and executing experiments given in this project kit. The 40-experiment kit set includes essential apparatus such as test tubes, a funnel, measuring cups, measuring spoons, and pipettes. To ensure the safety of your child's soft hands, a pair of hand gloves is also provided. Additionally, the 60 bonus experiments are crafted to be executed with readily available home apparatus and ingredients. Children can enjoy performing these experiments multiple times as they wish. Being a completely safe STEM toy for kids, this Educational Science Experiment kit stands out as the ideal choice for gifting to today's generation of children.science gift set kit toy for kids boys girls Best Gifting toy Option: As This Educational Science toy Experiment kit is safe to use it becomes the best Option To gift today's kids boys girl .",
+"mrp": "999",
+"dp": "519",
+"status": "inactive"
+    },
+    {
+      "id": 5,
+"name": "TCL T6G 126 cm (50 inch) QLED Ultra HD (4K) Smart Google TV With Hands-Free Voice Control  (50T6G)",
+"uploadPhoto":"https://rukminim2.flixcart.com/image/832/832/xif0q/television/b/t/8/50t6g-tcl-original-imagpecgp6mdk7hy.jpeg?q=70&crop=false",
+"productDesc":"You can watch the stunning colours coming to life on this TV, thanks to its QLED display. The Dolby Vision and HDR 10+ enables you with an immersive viewing experience. AiPQ Engine 3.0 ensures to deliver high-quality 4K visuals. The MEMC algorithm helps to reduce blur and image tearing to ensure smooth visuals. This TV is a perfect choice for gamers, as you can engage in intense gaming sessions with mesmerising image quality. The AMD FreeSync technology ensures that you can experience a lag-free gaming experience on this TCL TV. The Dolby Atmos audio system enables you with theatre-like audio experience at home while watching your favourite movies, shows, or while playing games with friends. This Google TV gives you access to unlimited content through several streaming platforms. It has a stunning bezel-less design to suit the aesthetics of your living room. With OK Google, you can use voice commands to search for the desired content. The 64-bit Quad-core processor with G31*2 800 MHz GPU and 16 GB of storage + 2 GB of RAM enables you with fast and smooth processing to enjoy unlimited content in 4K quality.",
+"mrp": "1,14,990",
+"dp": "33,999",
+"status": "publish"
+    },
+    {
+      "id": 6,
+"name": "Cetaphil Sunscreen - SPF 50+ Sun Kids Liposomal Lotion SPF 50+  (150 ml)",
+"uploadPhoto":"https://rukminim2.flixcart.com/image/832/832/xif0q/sunscreen/e/n/9/-original-imags6m8h9r2gyrd.jpeg?q=70&crop=false",
+"productDesc":"For Baby Boys & Baby Girls, Suitable For Normal Skin, Lotion Form and Paraben Free",
+"mrp": "1990",
+"dp": "1831",
+"status": "publish"
+    },
+    {
+      "id": 7,
+"name": "Analog Watch - For Men NP1773SL02",
+"uploadPhoto":"https://rukminim2.flixcart.com/image/832/832/xif0q/watch/x/o/8/-original-imagnvwtyv2panhd.jpeg?q=70&crop=false",
+"productDesc":"This is a genuine Titan product. The product comes with a standard brand warranty of 2 Years.",
+"mrp": "2095",
+"dp": "1199",
+"status": "draft"
+    },
+    {
+      "id": 8,
+"name": "Godrej 5-In-1 Convertible Cooling 2023 Model 1.5 Ton 3 Star Split Inverter With Heavy Duty Cooling at Extreme Temperature AC - White  (AC 1.5T EI 18TINV3R32 WWD, Copper Condenser)",
+"uploadPhoto":"https://rukminim2.flixcart.com/image/832/832/xif0q/air-conditioner-new/i/4/v/-original-imagw72zrgufrshj.jpeg?q=70&crop=false",
+"productDesc":"In the scorching heat of the Indian summer, finding respite becomes a necessity, and Godrej Air Conditioners step in as the ultimate cooling companions. Designed to tackle the sweltering temperatures with finesse, these ACs boast a plethora of features that not only provide comfort but also contribute to a green, energy-efficient world. With features like 5-in-1 Convertible Cooling, Power Saving Inverter Technology, Heavy-Duty Cooling, and a host of others, they redefine what you can expect from your air conditioner. Embrace cooling that goes beyond comfort—it's cooling that cares for the world.",
+"mrp": "45400",
+"dp": "30990",
+"status": "publish"
+    },
+    {
+      "id": 9,
+"name": "Saffola Oats with Apple 'n' Almonds, Healthy & Tasty, Anytime Snack, 800g Pouch  (2 x 400 g)",
+"uploadPhoto":"https://rukminim2.flixcart.com/image/832/832/xif0q/cereal-flake/k/m/u/-original-imagwrwg53xmdz9j.jpeg?q=70&crop=false",
+"productDesc":"Saffola Oats in a brand new avatar with the indulgent fruity flavoured oats mixed with real nuts! Made with real fruits & nuts, Saffola Oats with Apple 'n' Almonds gives you a delightful eating experience. This Saffola Oats pack has bright fruits like apple slices and tasty almonds. Along with this, rich Indian Millets like Jowar & Rolled Oats are also present that enhance your consumption experience. Now experience the joy of sweet & fruity oats at your homes whenever you like without compromising on health.. This is a perfect snack for anytime and anyday. Just cook it in milk and it is ready to eat in just 3 minutes - super convenient to make, super tasty to eat, and super hard to resist! Saffola Oats with Apple 'n' Almonds is made with wholegrain Oats, apple slices, almonds and the warm touch of cinnamon. It is high in fibre and protein and keeps you fuller for longer, helping you control your hunger pangs and manage weight without compromising on taste. Millets, one of the oldest crops used traditionally, are nutritious & when combined with the goodness of Oats, it turns out to be a wholesome food. Moreover, a nutritious fruity delight in a nutty avatar makes snacking a delightful experience.",
+"mrp": "500",
+"dp": "299",
+"status": "draft"
+    },
+    {
+      "id": 10,
+"name": "Super Speed Walking Shoes For Men(White)",
+"uploadPhoto":"https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/6/m/t/10-fw23fd266-11-reebok-white-black-original-imagtyf64aaufdr6.jpeg?q=70&crop=false",
+"productDesc":"Color:White, Outer material :Mesh, Model name :Super Speed, Ideal for :Men, Occasion :Sports, Type :For Sports Walking Shoes, Net Quantity :1, Sole material :Imeva, pack of 1",
+ "mrp": "2499",
+"dp": "1047",
+"status": "publish"
+    },
+    {
+      "id": 11,
+"name": "RIAN Solid Double Comforter for AC Room  (Polyester, Blue)",
+"uploadPhoto":"https://rukminim2.flixcart.com/image/832/832/kc3p30w0/blanket/p/z/v/luxury-5-star-microfibre-reversible-soft-plain-quilted-comforter-original-imaftahkxnded2qx.jpeg?q=70&crop=false",
+"productDesc":"Our collection of elegant blankets & bed sheets, Comforters are a perfect match to the contemporary room decor. Our products are luxuriously soft and are cosy to the core. The subtle colour scheme gives them a rich look. Available in standard sizes, these blankets & bed sheets require no special care. Our range of elegant blankets can be availed at the most competitive prices. We endeavour to satisfy all our valuable clientele and our suitable infrastructure and exquisite designs help us to maintain the international standards in the quality of our products.",
+"mrp": "2999",
+"dp": "1199",
+"status": "publish"
+    },
+    {
+      "id": 12,
+"name": "Hosley Highly Fragranced Apple Cinamon Filled Votive Glass Candles / Decoration Candles",
+"uploadPhoto":"https://rukminim2.flixcart.com/image/832/832/knj7wcw0/candle/f/g/s/apple-cinamon-highly-fragranced-apple-cinamon-filled-votive-original-imag26rbsvjuuzsy.jpeg?q=70&crop=false",
+"productDesc":"Pack of 6, Apple Cinamon Fragrance, Round Shape, Color: Red",
+"mrp": "600",
+"dp": "289",
+"status": "inactive"
+    },
+    {
+      "id": 13,
+"name": "DivineCrafts Analog 32.5 cm X 32.5 cm Wall Clock",
+"uploadPhoto":"https://rukminim2.flixcart.com/image/832/832/kjabs7k0-0/wall-clock/a/g/e/handpainted-peacock-wall-clock-wc-331-analog-divinecrafts-original-imafyvmxgyhdyefg.jpeg?q=70&crop=false",
+"productDesc": "Handpainted Wooden Wall Clock With Beautiful Design For Your Living Room Or Bed Room. The Product Is Made High Quality Colors, Kundan Pearls Studded Decorated On Wood Along With Colour Glasses. It Is Durable And Look Elegant And Feel Royal For Oneself At Home.",
+"mrp": "2999",
+"dp": "319",
+"status": "publish"
+    }
+
+],
+"orderss":[
+  {
+"id": 1,
+"userId": 3,
+"sellerId": 2,
+"product": {
+"id": 1,
+"name": "Huesland 152 cm (5 ft) Cotton Room Darkening Window Curtain Single Curtain  (Printed, Green Leaf Floral)",
+      "uploadPhoto":"https://rukminim2.flixcart.com/image/832/832/xif0q/curtain/7/v/p/bohemian-curtain-hlcc0007-4x7-door-eyelet-huesland-original-imagpzzzqza798gr.jpeg?q=70&crop=false",
+"productDesc":"Introduce a charming surprise to your living room decor with this bohemian eyelet curtain from Huesland by Ahmedabad Cotton. The cotton finish fabric makes it soft to touch and easy to maintain. You can find gorgeous curtains that are perfect for your room and also serve numerous purposes. Blocks 60-65% direct sunlight keeping room naturally illuminated. Made with premium cotton fabric, easy to install and slide. Curtains come with decorative tassels on 3 sides.",
+"mrp": "1499",
+"dp": "749",
+"status": "publish"	
+  },
+"deliveryAddress": {
+      "id": 0,
+"addLine1": "Marathahalli",
+"addLine2": "Brookefields",
+"city": "Bangalore",
+"state":"Choose...",
+"zipCode": 560037
+},
+"contact": "09923478234",
+"dateTime":"23/12/2018"
+}
+]
 }
